@@ -21,14 +21,13 @@ This Rust application simulates an LP (Liquidity Pool) system. It provides funct
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/lp-pool-app.git
-
+   git clone https://github.com/Sniezka1927/LpPool.git
    ```
 
 2. Navigate to the project directoy:
 
    ```bash
-   cd lp-pool-app
+   cd lppool
    ```
 
 ### Usage
